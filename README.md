@@ -10,3 +10,5 @@ You have to jump each time before dragon hits you.
 Know your score each time you win or loss.
 Speed increases as score increase.
 </pre>
+
+* You Can [Play Here](https://github.com/umanique/iDragonthegame)
