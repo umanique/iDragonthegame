@@ -11,4 +11,4 @@ Know your score each time you win or loss.
 Speed increases as score increase.
 </pre>
 
-* You Can [Play Here](https://umanique.github.io/iDragonthegame/)
+* You Can [Play Here](https://umanique.github.io/iDragonthegame/target="_blank")
